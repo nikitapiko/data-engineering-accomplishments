@@ -1,22 +1,10 @@
-![statement-of-accomplishment-18](https://github.com/nikitapiko/data-engineering-accomplishments/assets/78175001/99778a27-53e9-4f21-b805-1eb864738fe2)
-![Uploading statement-of-accomplishment-17.png…]()
-![Uploading statement-of-accomplishment-16.png…]()
-![Uploading statement-of-accomplishment-15.png…]()
-![Uploading statement-of-accomplishment-14.png…]()
-![Uploading statement-of-accomplishment-13.png…]()
-![Uploading statement-of-accomplishment-12.png…]()
-![Uploading statement-of-accomplishment-11.png…]()
-![Uploading statement-of-accomplishment-10.png…]()
-![Uploading statement-of-accomplishment-9.png…]()
-![Uploading statement-of-accomplishment-8.png…]()
-![Uploading statement-of-accomplishment-7.png…]()
-![Uploading statement-of-accomplishment-6.png…]()
-![Uploading statement-of-accomplishment-5.png…]()
-![Uploading statement-of-accomplishment-4.png…]()
-![Uploading statement-of-accomplishment-3.png…]()
+
 # data-engineering-accomplishments
 A view of all courses, materials and milestones I accomplished in Data Engineering / Data Science.
-[statement-of-accomplishment-16.pdf](https://github.com/nikitapiko/data-engineering-accomplishments/files/12381052/statement-of-accomplishment-16.pdf)
 
-![Uploading statement-of-accomplishment-2.png…]()
-![Uploading statement-of-accomplishment-1.png…]()
+![Screenshot 2023-08-20 at 16 27 51](https://github.com/nikitapiko/data-engineering-accomplishments/assets/78175001/e246c0a9-6ec5-4145-b797-956af3fbedbb)
+
+![skill_track_accomplishment-1](https://github.com/nikitapiko/data-engineering-accomplishments/assets/78175001/087575ec-3d05-4a83-8155-6d86a097f355)
+![skill_track_accomplishment-2](https://github.com/nikitapiko/data-engineering-accomplishments/assets/78175001/1b93e698-4740-476c-b628-e6f0077a0b99)
+![skill_track_accomplishment-3](https://github.com/nikitapiko/data-engineering-accomplishments/assets/78175001/c3f8aedf-d6fc-40f4-934f-870bb441cb2a)
+
